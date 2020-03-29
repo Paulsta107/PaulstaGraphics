@@ -1,0 +1,24 @@
+.glyphicon-time{
+    @extend .ion-android-time;
+}
+.glyphicon-calendar{
+    @extend .ion-android-calendar;
+}
+.glyphicon-chevron-up{
+    @extend .ion-chevron-up;
+}
+.glyphicon-chevron-down{
+    @extend .ion-chevron-down;
+}
+.glyphicon-arrow-left{
+    @extend .ion-chevron-left;
+}
+.glyphicon-arrow-right{
+    @extend .ion-chevron-right;
+}
+.glyphicon-screenshot{
+    // @extend .ion-android-calendar;
+}
+.glyphicon-trash{
+    @extend .ion-ios-trash;
+}
